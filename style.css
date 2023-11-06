@@ -1,0 +1,43 @@
+.iconPlusText {
+    display: flex;
+    align-items: center;
+}
+
+header {
+    display:flex;
+    justify-content: space-between;
+}
+
+.icons {
+    height: 20px;
+    padding-right: 5px;
+}
+
+.iconsPlusIcons {
+    display: flex;
+}
+
+.actionPost {
+    display:flex;
+    justify-content: space-between;
+}
+
+.headerText {
+    font-size: 50%;
+    border:10%;
+}
+
+.photoPost {
+    width: 700px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.all {
+    width: 700px;
+}
+
+.noPaddingPlease {
+    margin-block-end: 0px;
+    margin-block-start: 0px;
+}
