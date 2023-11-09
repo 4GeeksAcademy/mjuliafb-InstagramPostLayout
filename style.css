@@ -1,3 +1,8 @@
+.all {
+    width: 700px;
+    margin:0 auto;
+    padding-top: 5px;
+}
 .iconPlusText {
     display: flex;
     align-items: center;
@@ -28,13 +33,10 @@ header {
 }
 
 .photoPost {
-    width: 700px;
+    height: 500px;
+    width: 100%;
     margin-bottom: 5px;
     margin-top: 5px;
-}
-
-.all {
-    width: 700px;
 }
 
 .noPaddingPlease {
